@@ -23,13 +23,6 @@ You can download the exe from [here](https://hackvshack.net/threads/assault-cube
 > git clone https://github.com/Giuseppe1337/PWine
 ```
 
-For production environments...
-
-```sh
-npm install --production
-NODE_ENV=production node app
-```
-
 ## License
 
 This app uses [GNU v3.0](https://github.com/Giuseppe1337/PWine/blob/main/LICENSE) license.
