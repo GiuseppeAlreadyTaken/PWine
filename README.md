@@ -25,4 +25,4 @@ You can download the exe from [here](https://hackvshack.net/threads/assault-cube
 
 ## License
 
-This app uses [GNU v3.0](https://github.com/Giuseppe1337/PWine/blob/main/LICENSE) license.[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
+This app uses [![License: GNU GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)   license.
