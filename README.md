@@ -18,7 +18,7 @@ PWine is an Assault Cube Hack, made 4 years ago, using the coding language c++, 
 
 ## How to build & compile
 
-You can download the exe from [here](https://hackvshack.net/threads/assault-cube-trainer.2330/#post-11070) or build it by yourself. Using the following command:
+You can download the exe from [here](https://hackvshack.net/threads/assault-cube-trainer.2330/#post-11070) or build it by yourself using the following command:
 ```sh
 > git clone https://github.com/Giuseppe1337/PWine
 ```
