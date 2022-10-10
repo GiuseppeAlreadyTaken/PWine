@@ -1,10 +1,6 @@
 # PWine
 ## _Assault Cube Trainer_
 
-## License
-
-This app uses [GNU v3.0](https://github.com/Giuseppe1337/PWine/blob/main/LICENSE) license.
-
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 PWine is an Assault Cube Hack, made 4 years ago, using the coding language c++, I found this old project in my external hard drive, I'm planning to improve and maybe recode it...  If you want to help me, do NOT hesitate in making a pull request.
@@ -26,3 +22,7 @@ You can download the exe from [here](https://hackvshack.net/threads/assault-cube
 ```sh
 > git clone https://github.com/Giuseppe1337/PWine
 ```
+
+## License
+
+This app uses [GNU v3.0](https://github.com/Giuseppe1337/PWine/blob/main/LICENSE) license.[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
