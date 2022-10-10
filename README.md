@@ -14,7 +14,7 @@ PWine is an Assault Cube Hack, made 4 years ago, using the coding language c++, 
 
 - Infinite health
 - Infinite ammo
-- Quit with no memory leaks
+- Quit with no memory leak
 
 ## How to build & compile
 
